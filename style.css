@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+.row div {
+    margin: 0.25rem;
+}
+
+.col {
+    background-color: mediumpurple;
+}
+.col-sm {
+    background-color: lightblue;
+}
+.col-md {
+    background-color: lightcoral;
+}
+.col-lg {
+    background-color: lightgreen;
+}
+.col-xl {
+    background-color: lightgray;
+}
